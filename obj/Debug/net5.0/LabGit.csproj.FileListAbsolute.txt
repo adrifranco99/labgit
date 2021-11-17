@@ -1,0 +1,16 @@
+C:\Users\adrif\source\repos\LabGit\bin\Debug\net5.0\LabGit.exe
+C:\Users\adrif\source\repos\LabGit\bin\Debug\net5.0\LabGit.deps.json
+C:\Users\adrif\source\repos\LabGit\bin\Debug\net5.0\LabGit.runtimeconfig.json
+C:\Users\adrif\source\repos\LabGit\bin\Debug\net5.0\LabGit.runtimeconfig.dev.json
+C:\Users\adrif\source\repos\LabGit\bin\Debug\net5.0\LabGit.dll
+C:\Users\adrif\source\repos\LabGit\bin\Debug\net5.0\ref\LabGit.dll
+C:\Users\adrif\source\repos\LabGit\bin\Debug\net5.0\LabGit.pdb
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.csproj.AssemblyReference.cache
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.AssemblyInfoInputs.cache
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.AssemblyInfo.cs
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.csproj.CoreCompileInputs.cache
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.dll
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\ref\LabGit.dll
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.pdb
+C:\Users\adrif\source\repos\LabGit\obj\Debug\net5.0\LabGit.genruntimeconfig.cache
